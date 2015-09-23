@@ -1,41 +1,41 @@
-IMPLEMENTA敲O DO MEU PRIMEIRO PULL REQUEST NO GITHUB
+IMPLEMENTA脟脙O DO MEU PRIMEIRO PULL REQUEST NO GITHUB
 ====================================================
 
-1. Fiz o fork do reposit髍io de wesleywillians/git-code-education no GitHub
+1. Fiz o fork do reposit贸rio de wesleywillians/git-code-education no GitHub
 
-2. Clonei o meu reposit髍io atrav閟 do comando:
+2. Clonei o meu reposit贸rio atrav茅s do comando:
 
-```shell
-git clone https://github.com/danielfleck/git-code-education.git
-```
+  ```shell
+  git clone https://github.com/danielfleck/git-code-education.git
+  ```
 
-3. Criei um branch para o t髉ico a fim de propor o c骴igo
+3. Criei um branch para o t贸pico a fim de propor o c贸digo
 
-```shell
-git checkout -b cria-outro-arquivo
-```
+  ```shell
+  git checkout -b cria-outro-arquivo
+  ```
 
 4. Criei e editei este arquivo
 
 5. Efetuei o commit
 
-```shell
-git add umArquivo.md
-git commit -m "Cria um arquivo descrevendo o pull request"
-```
+  ```shell
+  git add umArquivo.md
+  git commit -m "Cria um arquivo descrevendo o pull request"
+  ```
 
-6. Fiz o push do branch para o meu reposit髍io
+6. Fiz o push do branch para o meu reposit贸rio
 
-```shell
-git push origin cria-outro-arquivo
-```
+  ```shell
+  git push origin cria-outro-arquivo
+  ```
 
-7. Acessei o meu reposit髍io do projeto git-code-education
+7. Acessei o meu reposit贸rio do projeto git-code-education
 
 8. Cliquei em Pull Request e em seguida em New Pull Request7
 
-9. Selecionei como base fork o reposit髍io de wesleywillians no branch master e como head fork o meu repositorio no branch cria-outro-arquivo
+9. Selecionei como base fork o reposit贸rio de wesleywillians no branch master e como head fork o meu repositorio no branch cria-outro-arquivo
 
 10. Cliquei em create pull request
 
-11. Por 鷏timo acrescentei um t韙ulo e descri玢o ao Pull Request e cliquei novamente em Pull Request
+11. Por 煤ltimo acrescentei um t铆tulo e descri莽茫o ao Pull Request e cliquei novamente em Pull Request

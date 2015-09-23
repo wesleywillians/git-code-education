@@ -36,4 +36,6 @@ git push origin cria-outro-arquivo
 
 9. Selecionei como base fork o repositório de wesleywillians no branch master e como head fork o meu repositorio no branch cria-outro-arquivo
 
-10. Por último acrescentei uma descrição ao Pull Request
+10. Cliquei em create pull request
+
+11. Por último acrescentei um título e descrição ao Pull Request e cliquei novamente em Pull Request
